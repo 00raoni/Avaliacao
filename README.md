@@ -6,7 +6,7 @@ MongoDB
 Bootstrap
  
  
-# API - nome: Projeto
+# API - projeto
 
 
 Iniciar o projeto - npm init
@@ -20,7 +20,7 @@ Configurar BD usando o mongoose
 Criar Model e persistir os dados
 
 
-# APP - nome: app
+# APP - app
 
 
 Iniciar o projeto - npm install -g @vue/cli | vue create app
