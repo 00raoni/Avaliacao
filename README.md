@@ -3,6 +3,7 @@
 Criei 2 Projetos API e APP
 
 API: http://localhost:3000/api/v1/chat
+
 APP: http://localhost:8080/
 
 
@@ -32,7 +33,7 @@ dependencies da API
     "path": "^0.12.7"
 }
 
-Após salvar a API no micro
+Após salvar a pasta API
 
 abra o console , entre na pasta, execute os seguintes comandos
 
@@ -60,7 +61,8 @@ Dependencies da Aplicação : {
     "vue-template-compiler": "^2.6.12"
   }
 
-Após salvar a Aplicação no micro
+Após salvar a pasta App
+
 
 abra o console , entre na pasta, execute os seguintes comandos:
 
